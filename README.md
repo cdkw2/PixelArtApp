@@ -19,4 +19,5 @@ The saveCanvas() function is called when the user clicks the "Save" button. It g
 
 The toggleEraser() function is called when the user clicks the "Eraser" button. It toggles a global variable eraserOn, which is used to determine whether the user is drawing with the eraser tool or the pencil tool.
 
-Overall, the code is a simple example of how to create an online drawing tool using HTML, CSS, and JavaScript. It can be modified and extended in many ways, such as adding new tools, colors, and brushes, or integrating it with a server-side backend to save and share artwork. I may or maynot update the code as it's just a side project made in 1 hour or so. But if you use this code and make something out of it, let me know!
+
+> Overall, the code is a simple example of how to create an online drawing tool using HTML, CSS, and JavaScript. It can be modified and extended in many > > ways, such as adding new tools, colors, and brushes, or integrating it with a server-side backend to save and share artwork. I may or maynot update the > > code as it's just a side project made in 1 hour or so. But if you use this code and make something out of it, let me know!
